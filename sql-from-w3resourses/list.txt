@@ -1,0 +1,27 @@
+sql-exercises
+-retrieve-data-from-tables     ++++
+-boolean-relational-operators  ++++
+-wildcard-special-operators     ++++
+-sql-joins                      ++++
+
+
+
+
+
+movie
+
+
+
+soccer
+-basic-queries   +++++
+
+
+hospital
+
+
+
+
+employee
+-basic-queries   +++++
+
+
