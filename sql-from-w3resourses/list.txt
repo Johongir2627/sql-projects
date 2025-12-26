@@ -10,11 +10,12 @@ sql-exercises
 
 movie
 -basic-queries ++++
+-subqueries    ++++
 
 
 soccer
--basic-queries   +++++
--subqueries      +++++
+-basic-queries   ++++
+
 
 
 hospital
